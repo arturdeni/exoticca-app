@@ -1,0 +1,25 @@
+{
+  "id": 1,
+  "title": "Mock Product",
+  "destination": "Mock Destination",
+  "days": 7,
+  "extraNights": 2,
+  "priceDetail": {
+    "pricingPercentage": 20,
+    "oldPriceBeautify": "$1000",
+    "fromPriceBeautify": "$800",
+    "pricePerNight": "$100"
+  },
+  "images": [
+    {
+      "mobile": "mock-mobile-image-url",
+      "desktop": "mock-desktop-image-url"
+    }
+  ],
+  "tags": [
+    { "id": 1, "alias": "Tag 1" },
+    { "id": 2, "alias": "Tag 2" }
+  ],
+  "hasPrivateTour": false,
+  "hasSoloTraveller": false
+}
